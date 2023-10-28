@@ -39,7 +39,3 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,mysql,postman" />
 </a>
-<div align="center">
-  <a href="https://iconscout.com/">
-    <img src="https://iconscout.com/jira-2296055" />
-</a>
