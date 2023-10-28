@@ -6,15 +6,17 @@
     </a>
   </h1>
 
-<h3 align="center">A passionate software tester from Poland CA</h3>
+<h3 align="center">A passionate software tester from Poland</h3>
 
 <br/>
 
 <div align="center">
-I 'm cyrrently working on * *a chat
-I 'm currently learning * *Redis, Tailwind,
-Ask me about * *Node.js, React, Firebase,
-Fun fact * *Game of Thrones Night•s Watch
-React Native Expo* *
-or anything
-cloaks are made from Ikea rugs**
+
+💻 I’m looking for new challenges as a **Software Tester**
+    
+🧰 I can use **Jira (Trello), TestLink (TestRail, qTest), Confluence, DevTools.**
+
+🐛 I'm good at **finding valuable bugs.**
+
+🎲 Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
