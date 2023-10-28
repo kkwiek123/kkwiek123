@@ -29,3 +29,12 @@
   <a href="https://www.linkedin.com/in/kamil-kwiek-91b887284">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+</div>
+
+<hr/>
+
+<h2 align="center"> 🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<br/>
+<div align="center">
+<a href="https://skillicons.dev">
+    <img src="<a href="https://iconscout.com/icons/jira" class="text-underline font-size-sm" target="_blank">Jira</a> by <a href="https://iconscout.com/contributors/icons" class="text-underline font-size-sm">Dinesh Awtani</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" /><br>
