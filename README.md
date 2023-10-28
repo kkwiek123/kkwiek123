@@ -45,8 +45,8 @@
 <div align="center">
     </h2>🐍 My contributions 🐍</h2>
     <br>
-    <img alt="snake eating my contrybutions" src="https://github.com/kkwiek123/kkwiek123/actions/workflows/main.yml" />
-    
+    <img alt="snake eating my contrybutions" src="https://github.com/kkwiek123/kkwiek123/output/github-contribution-grid-snake.svg" />
+   
 
 
 
