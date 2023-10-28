@@ -37,4 +37,5 @@
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="<a href="https://iconscout.com/icons/jira" class="text-underline font-size-sm" target="_blank">Jira</a> by <a href="https://iconscout.com/contributors/icons" class="text-underline font-size-sm">Dinesh Awtani</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" /><br>
+    <img src="https://skillicons.dev/icons?i=github,mysql/>
+        </a>
