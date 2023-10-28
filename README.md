@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="mailto:kkwiek05@gmail.com">
-    <img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target=”blank” / >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=”blank” />
 </a>
 <a href="[https://www.linkedin.com/in/kamil-kwiek-91b887284/]" target=" blank" >
 <img src="[https://img.shie1ds.io/badge/LinkedIn-077BS?sty1e=for-the-badge&10go=1inkedin&10goC010r=white]" target=" blank”
