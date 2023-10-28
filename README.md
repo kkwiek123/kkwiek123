@@ -37,5 +37,5 @@
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,mysql/>
+    <img src="https://skillicons.dev/icons?i=githubmysql" />
         </a>
