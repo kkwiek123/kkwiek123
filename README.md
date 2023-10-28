@@ -41,5 +41,5 @@
 </a>
 <div align="center">
   <a href="https://iconscout.com/">
-    <img src="https://iconscout.com/icons?i=jira,postman" />
+    <img src="https://iconscout.com/jira-2296055" />
 </a>
