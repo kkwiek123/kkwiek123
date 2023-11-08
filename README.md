@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=mysql,postman,git" />
   </a>
 </div>
 
